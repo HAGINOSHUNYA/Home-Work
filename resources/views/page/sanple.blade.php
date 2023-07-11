@@ -78,7 +78,7 @@
 
 
       </div>
-      <div class="col-md-2 bg-success" style="height:100px;">
+      <div class="col-md-2 bg-success" style="height:auto;">
       
       </div>
     </div>

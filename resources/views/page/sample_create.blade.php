@@ -12,10 +12,10 @@
 <div class="container">
   <div class="row">
 
-    <div class="col-md-2 bg-success" style="height:100px;">
+    <div class="col-md-2 bg-success" style="height:auto;">
     </div>
 
-    <div class="col-md-8 bg-primary " style="height:100px;">
+    <div class="col-md-8 bg-primary " style="height:auto;">
 
     @if ($errors->any())
                      <div>
@@ -54,7 +54,7 @@
 
     </div>
 
-    <div class="col-md-2 bg-success" style="height:100px;">
+    <div class="col-md-2 bg-success" style="height:auto;">
     </div>
 
   </div>
